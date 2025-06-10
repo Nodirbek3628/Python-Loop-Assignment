@@ -33,8 +33,8 @@ Foydalanuvchi matn kiritadi. Siz uni harfma-harf teskari qilib chiqaring.
 
 ---
 
-### 🧩 6. **Kiritilgan so‘zda nechta gap borligini aniqlang**
-
+### 🧩 . **Kiritilgan so‘zda nechta gap borligini aniqlang**
+6
 Matn kiriting: `"Men dasturchiman. Python yaxshi. Sen-chi?"`
 → 3 ta gap bor (nuqta orqali bo‘lingan).
 Siz `for` bilan nechta `.` borligini sanab gaplar sonini aniqlang.
